@@ -100,7 +100,7 @@
         <h2 class="text-center hospital-name">MediCare Hospital</h2>
 
         <p class="text-center text-muted mb-4">
-            Hospital Appointment Booking System
+            Hospital Appointment Booking System 
         </p>
 
         <h4 class="text-center mb-4">Create Your Account</h4>
